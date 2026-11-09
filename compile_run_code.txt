@@ -1,0 +1,7 @@
+compile:
+
+C:\raylib\w64devkit\bin\g++.exe -B"C:\raylib\w64devkit\bin" main.cpp -o ADIT_Campus_Navigation.exe -std=c++17 -IC:\raylib\raylib\src -LC:\raylib\raylib\src -lraylib -lopengl32 -lgdi32 -lwinmm
+
+run:
+
+.\ADIT_Campus_Navigation.exe
